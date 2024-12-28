@@ -21,7 +21,7 @@ I draw inspiration from architecture and design to craft solutions that are scal
 - The Los Angeles Lakers!
 
 ### 📫 How to reach me
-- [LinkedIn](linkedin.com/steven-orizaga)
+- [LinkedIn](https://linkedin.com/steven-orizaga)
 - [Email](stevenorizaga@gmail.com)
 
 ### ⚡ Fun fact
