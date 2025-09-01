@@ -42,7 +42,7 @@ This is what modern craftsmanship looks like to me: curious, collaborative, and 
 - Replaced 2–3 hours/day of manual work with automated insights  
 - Executive-ready visuals built for leadership strategy  
 
-### [🛡️ Data Quality Airflow Framework](./data-quality-airflow-framework/)  
+### [🛡️ Data Quality Airflow Framework](https://github.com/teeeven/data-quality-airflow-framework) 
 **Enterprise-Scale Validation & Monitoring**  
 - Automated tests with configurable rule sets  
 - Professional email reporting with institutional branding  
