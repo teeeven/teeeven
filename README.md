@@ -63,5 +63,3 @@ This is what modern craftsmanship looks like to me: curious, collaborative, and 
 I build data systems that help people see clearly, move efficiently, and design with intention. Always open to conversations around analytics, engineering and the intersection of **data & design**.
 
 ---
-
-**Production-Ready | Higher Ed Focused | Architecture-Inspired**
