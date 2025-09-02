@@ -1,10 +1,10 @@
 # Hi there, I’m Steven 👋
 
-I’m a Data Analyst based in the Arts District of Los Angeles, working in higher education at an architecture school. My GitHub is a living archive of data systems built with intention—shaped by real institutional needs and guided by principles I hold close.
+I’m a Data Analyst based in the Arts District of Los Angeles. My GitHub is a living archive of data systems and self-initiated projects which explore ideas of what I think should exist. All of these projects are guided by principles I hold close, this is very important to me as I find this helps me develop my own style for creating and problem solving. Thanks for stopping by -- I'll do my best to update and throw new things that I build as they arrive. 
 
 ## 🪵 Design Philosophy
 
-My approach to data engineering draws from architectural craft: slow-built, purposeful, and designed to endure. I follow five guiding principles:
+My approach to data and design draws from architectural craft: I aim for slow-built, scalable, purposeful, thoughtful design. I follow five guiding principles:
 
 1. **ATOMICITY** – Each piece should do one thing well  
 2. **IDEMPOTENCY** – Repeated actions should yield consistent, stable results  
@@ -28,13 +28,13 @@ This is what modern craftsmanship looks like to me: curious, collaborative, and 
 
 ---
 
-## 🛠️ Featured Data Engineering Projects
+## 🛠️ Featured Projects
 
-### [🔐 ETL Framework](./etl-framework/)  
-**Universal SaaS API Integration**  
-- Production-grade ETL pipeline with advanced rate limiting (4 req/sec, 2000/day)  
+### [🔐 ETL Framework](https://github.com/teeeven/etl)  
+**My approach for a Data Pipelines**  
+- Production-grade ETL pipeline with rate limiting  
 - ACID-compliant inserts with transaction rollback and integrity checks  
-- Configurable architecture for other platforms (Salesforce, ServiceNow, etc.)
+- Configurable architecture for other platforms and API
 
 ### [📈 Enrollment Analytics Pipeline](./enrollment-analytics-pipeline/)  
 **Real-Time Institutional Intelligence**  
