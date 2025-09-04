@@ -36,7 +36,7 @@ This is what modern craftsmanship looks like to me: curious, collaborative, and 
 - ACID-compliant inserts with transaction rollback and integrity checks  
 - Configurable architecture for other platforms and API
 
-### [📈 Enrollment Analytics Pipeline](./enrollment-analytics-pipeline/)  
+### [📈 Enrollment Analytics Pipeline](https://github.com/teeeven/enrollment-analytics-pipeline)  
 **Real-Time Institutional Intelligence**  
 - Time-series analytics for enrollment monitoring and change detection  
 - Replaced 2–3 hours/day of manual work with automated insights  
